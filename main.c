@@ -29,7 +29,7 @@ int lowcmp(char str[],char str1[])              //comparing the strings alphabet
 int main()
 {
 
-    char text[1000];
+    char text[100];
     gets(text);
 
 
